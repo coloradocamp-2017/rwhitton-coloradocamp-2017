@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Exit immediately on errors
+set -e
